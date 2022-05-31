@@ -1,3 +1,3 @@
 # git_test
 quick test
-Hello Odin!
+to upload old website and other lessons from Odin!
