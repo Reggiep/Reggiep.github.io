@@ -1,0 +1,51 @@
+.cypress{
+    max-width: 100%;
+    height: auto;
+    z-index: -1;
+}
+
+tabl{
+    border-collapse: collapse;
+    
+}
+tr{
+    border: 2px solid black;
+}
+td{
+    vertical-align: middle;
+    border: 2px solid black;
+}
+.tablewords{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.formo{
+    text-align: center;
+}
+
+.ccontent{
+    font-family: "verdana";
+    list-style-type: square;
+    padding: 15px;
+    margin: 40px 15%;
+    background-color: white;
+    color: black;
+}
+.icontent{
+    font-family: 'Righteous', cursive;
+    position: fixed;
+    font-family: "verdana";
+    float: left;
+    z-index: 1;
+    background-color: white;
+    color: black;
+    width: 300px;
+    
+}
+#bodyimage{
+    background-image: url("../images/cypress.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+}
